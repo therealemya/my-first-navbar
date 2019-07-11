@@ -17,5 +17,5 @@
 * Submit the quiz by _pushing_ the changes you have made to the project.
 * Execute the following commands from the _root directory_ of the project to _push_ changes to your repository.
     * `git add .`
-    * `git commit -m 'finished quiz'`
+    * `git commit -m 'finished assignment'`
     * `git push -u origin master`
