@@ -8,7 +8,7 @@
 * Open the newly cloned project in a code editor (Visual Studio Code, for example).
 
 ### Part 2 - Creating the navbar
-* Research the _navbar_ patterns by visiting the [w3 school tutorial on navbars]().
+* Research the _navbar_ patterns by visiting the [w3 school tutorial on navbars](https://www.w3schools.com/css/css_navbar.asp).
 * Modify the `index.html` file by creating a navbar.
 * Each `href` property in the navbar should navigate to a newly created `.html` file.
     * Create at least 4 new files that the navbar will navigate to.
